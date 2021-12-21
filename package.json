@@ -1,6 +1,25 @@
 {
   "dependencies": {
+    "dotenv": "^10.0.0",
     "express": "^4.17.1",
     "mongoose": "^6.1.1"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "node",
+  "version": "1.0.0",
+  "main": "express_server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Winnie319/todo_node_app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Winnie319/todo_node_app/issues"
+  },
+  "homepage": "https://github.com/Winnie319/todo_node_app#readme",
+  "description": ""
 }
